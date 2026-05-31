@@ -1,0 +1,21 @@
+fvm: optional
+sdk: flutter
+
+main_locale: ru
+context_type: BuildContext
+
+locales:
+  ru: ru.i18n.json
+  en: en.i18n.json
+
+maps:
+  - common
+
+interfaces:
+  default: true
+
+fallback_strategy:
+  from: ru
+  to: ru
+
+render_blank_as: ""

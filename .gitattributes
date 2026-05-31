@@ -1,0 +1,21 @@
+# Делаем LF окончанием строки по умолчанию для всех текстовых файлов
+* text=auto eol=lf
+
+# Явно указываем форматы для исходного кода и конфигураций
+*.dart text eol=lf
+*.yaml text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.gradle text eol=lf
+*.kts text eol=lf
+*.xml text eol=lf
+*.properties text eol=lf
+
+# Оставляем бинарные файлы без изменений (картинки, шрифты и т.д.)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.ttf binary
+*.otf binary

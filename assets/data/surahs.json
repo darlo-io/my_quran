@@ -1,0 +1,914 @@
+[
+  {
+    "number": 1,
+    "name_arabic": "الفاتحة",
+    "name_english": "Al-Fatihah",
+    "name_translated": "Открывающая",
+    "revelation_type": "meccan",
+    "ayah_count": 7
+  },
+  {
+    "number": 2,
+    "name_arabic": "البقرة",
+    "name_english": "Al-Baqarah",
+    "name_translated": "Корова",
+    "revelation_type": "medinan",
+    "ayah_count": 286
+  },
+  {
+    "number": 3,
+    "name_arabic": "آل عمران",
+    "name_english": "Aal-E-Imran",
+    "name_translated": "Семейство Имрана",
+    "revelation_type": "medinan",
+    "ayah_count": 200
+  },
+  {
+    "number": 4,
+    "name_arabic": "النساء",
+    "name_english": "An-Nisa",
+    "name_translated": "Женщины",
+    "revelation_type": "medinan",
+    "ayah_count": 176
+  },
+  {
+    "number": 5,
+    "name_arabic": "المائدة",
+    "name_english": "Al-Ma'idah",
+    "name_translated": "Трапеза",
+    "revelation_type": "medinan",
+    "ayah_count": 120
+  },
+  {
+    "number": 6,
+    "name_arabic": "الأنعام",
+    "name_english": "Al-An'am",
+    "name_translated": "Скот",
+    "revelation_type": "meccan",
+    "ayah_count": 165
+  },
+  {
+    "number": 7,
+    "name_arabic": "الأعراف",
+    "name_english": "Al-A'raf",
+    "name_translated": "Преграды",
+    "revelation_type": "meccan",
+    "ayah_count": 206
+  },
+  {
+    "number": 8,
+    "name_arabic": "الأنفال",
+    "name_english": "Al-Anfal",
+    "name_translated": "Трофеи",
+    "revelation_type": "medinan",
+    "ayah_count": 75
+  },
+  {
+    "number": 9,
+    "name_arabic": "التوبة",
+    "name_english": "At-Tawbah",
+    "name_translated": "Покаяние",
+    "revelation_type": "medinan",
+    "ayah_count": 129
+  },
+  {
+    "number": 10,
+    "name_arabic": "يونس",
+    "name_english": "Yunus",
+    "name_translated": "Йунус",
+    "revelation_type": "meccan",
+    "ayah_count": 109
+  },
+  {
+    "number": 11,
+    "name_arabic": "هود",
+    "name_english": "Hud",
+    "name_translated": "Худ",
+    "revelation_type": "meccan",
+    "ayah_count": 123
+  },
+  {
+    "number": 12,
+    "name_arabic": "يوسف",
+    "name_english": "Yusuf",
+    "name_translated": "Йусуф",
+    "revelation_type": "meccan",
+    "ayah_count": 111
+  },
+  {
+    "number": 13,
+    "name_arabic": "الرعد",
+    "name_english": "Ar-Ra'd",
+    "name_translated": "Гром",
+    "revelation_type": "medinan",
+    "ayah_count": 43
+  },
+  {
+    "number": 14,
+    "name_arabic": "إبراهيم",
+    "name_english": "Ibrahim",
+    "name_translated": "Ибрахим",
+    "revelation_type": "meccan",
+    "ayah_count": 52
+  },
+  {
+    "number": 15,
+    "name_arabic": "الحجر",
+    "name_english": "Al-Hijr",
+    "name_translated": "Хиджр",
+    "revelation_type": "meccan",
+    "ayah_count": 99
+  },
+  {
+    "number": 16,
+    "name_arabic": "النحل",
+    "name_english": "An-Nahl",
+    "name_translated": "Пчёлы",
+    "revelation_type": "meccan",
+    "ayah_count": 128
+  },
+  {
+    "number": 17,
+    "name_arabic": "الإسراء",
+    "name_english": "Al-Isra",
+    "name_translated": "Ночной перенос",
+    "revelation_type": "meccan",
+    "ayah_count": 111
+  },
+  {
+    "number": 18,
+    "name_arabic": "الكهف",
+    "name_english": "Al-Kahf",
+    "name_translated": "Пещера",
+    "revelation_type": "meccan",
+    "ayah_count": 110
+  },
+  {
+    "number": 19,
+    "name_arabic": "مريم",
+    "name_english": "Maryam",
+    "name_translated": "Марьям",
+    "revelation_type": "meccan",
+    "ayah_count": 98
+  },
+  {
+    "number": 20,
+    "name_arabic": "طه",
+    "name_english": "Ta-Ha",
+    "name_translated": "Та Ха",
+    "revelation_type": "meccan",
+    "ayah_count": 135
+  },
+  {
+    "number": 21,
+    "name_arabic": "الأنبياء",
+    "name_english": "Al-Anbiya",
+    "name_translated": "Пророки",
+    "revelation_type": "meccan",
+    "ayah_count": 112
+  },
+  {
+    "number": 22,
+    "name_arabic": "الحج",
+    "name_english": "Al-Hajj",
+    "name_translated": "Паломничество",
+    "revelation_type": "medinan",
+    "ayah_count": 78
+  },
+  {
+    "number": 23,
+    "name_arabic": "المؤمنون",
+    "name_english": "Al-Mu'minun",
+    "name_translated": "Верующие",
+    "revelation_type": "meccan",
+    "ayah_count": 118
+  },
+  {
+    "number": 24,
+    "name_arabic": "النور",
+    "name_english": "An-Nur",
+    "name_translated": "Свет",
+    "revelation_type": "medinan",
+    "ayah_count": 64
+  },
+  {
+    "number": 25,
+    "name_arabic": "الفرقان",
+    "name_english": "Al-Furqan",
+    "name_translated": "Различение",
+    "revelation_type": "meccan",
+    "ayah_count": 77
+  },
+  {
+    "number": 26,
+    "name_arabic": "الشعراء",
+    "name_english": "Ash-Shu'ara",
+    "name_translated": "Поэты",
+    "revelation_type": "meccan",
+    "ayah_count": 227
+  },
+  {
+    "number": 27,
+    "name_arabic": "النمل",
+    "name_english": "An-Naml",
+    "name_translated": "Муравьи",
+    "revelation_type": "meccan",
+    "ayah_count": 93
+  },
+  {
+    "number": 28,
+    "name_arabic": "القصص",
+    "name_english": "Al-Qasas",
+    "name_translated": "Рассказ",
+    "revelation_type": "meccan",
+    "ayah_count": 88
+  },
+  {
+    "number": 29,
+    "name_arabic": "العنكبوت",
+    "name_english": "Al-Ankabut",
+    "name_translated": "Паук",
+    "revelation_type": "meccan",
+    "ayah_count": 69
+  },
+  {
+    "number": 30,
+    "name_arabic": "الروم",
+    "name_english": "Ar-Rum",
+    "name_translated": "Римляне",
+    "revelation_type": "meccan",
+    "ayah_count": 60
+  },
+  {
+    "number": 31,
+    "name_arabic": "لقمان",
+    "name_english": "Luqman",
+    "name_translated": "Лукман",
+    "revelation_type": "meccan",
+    "ayah_count": 34
+  },
+  {
+    "number": 32,
+    "name_arabic": "السجدة",
+    "name_english": "As-Sajdah",
+    "name_translated": "Земной поклон",
+    "revelation_type": "meccan",
+    "ayah_count": 30
+  },
+  {
+    "number": 33,
+    "name_arabic": "الأحزاب",
+    "name_english": "Al-Ahzab",
+    "name_translated": "Сонмы",
+    "revelation_type": "medinan",
+    "ayah_count": 73
+  },
+  {
+    "number": 34,
+    "name_arabic": "سبأ",
+    "name_english": "Saba",
+    "name_translated": "Саба",
+    "revelation_type": "meccan",
+    "ayah_count": 54
+  },
+  {
+    "number": 35,
+    "name_arabic": "فاطر",
+    "name_english": "Fatir",
+    "name_translated": "Творец",
+    "revelation_type": "meccan",
+    "ayah_count": 45
+  },
+  {
+    "number": 36,
+    "name_arabic": "يس",
+    "name_english": "Ya-Sin",
+    "name_translated": "Йа Син",
+    "revelation_type": "meccan",
+    "ayah_count": 83
+  },
+  {
+    "number": 37,
+    "name_arabic": "الصافات",
+    "name_english": "As-Saffat",
+    "name_translated": "Стоящие в ряд",
+    "revelation_type": "meccan",
+    "ayah_count": 182
+  },
+  {
+    "number": 38,
+    "name_arabic": "ص",
+    "name_english": "Sad",
+    "name_translated": "Сад",
+    "revelation_type": "meccan",
+    "ayah_count": 88
+  },
+  {
+    "number": 39,
+    "name_arabic": "الزمر",
+    "name_english": "Az-Zumar",
+    "name_translated": "Толпы",
+    "revelation_type": "meccan",
+    "ayah_count": 75
+  },
+  {
+    "number": 40,
+    "name_arabic": "غافر",
+    "name_english": "Ghafir",
+    "name_translated": "Прощающий",
+    "revelation_type": "meccan",
+    "ayah_count": 85
+  },
+  {
+    "number": 41,
+    "name_arabic": "فصلت",
+    "name_english": "Fussilat",
+    "name_translated": "Разъяснены",
+    "revelation_type": "meccan",
+    "ayah_count": 54
+  },
+  {
+    "number": 42,
+    "name_arabic": "الشورى",
+    "name_english": "Ash-Shura",
+    "name_translated": "Совет",
+    "revelation_type": "meccan",
+    "ayah_count": 53
+  },
+  {
+    "number": 43,
+    "name_arabic": "الزخرف",
+    "name_english": "Az-Zukhruf",
+    "name_translated": "Украшения",
+    "revelation_type": "meccan",
+    "ayah_count": 89
+  },
+  {
+    "number": 44,
+    "name_arabic": "الدخان",
+    "name_english": "Ad-Dukhan",
+    "name_translated": "Дым",
+    "revelation_type": "meccan",
+    "ayah_count": 59
+  },
+  {
+    "number": 45,
+    "name_arabic": "الجاثية",
+    "name_english": "Al-Jathiyah",
+    "name_translated": "Коленопреклонённые",
+    "revelation_type": "meccan",
+    "ayah_count": 37
+  },
+  {
+    "number": 46,
+    "name_arabic": "الأحقاف",
+    "name_english": "Al-Ahqaf",
+    "name_translated": "Барханы",
+    "revelation_type": "meccan",
+    "ayah_count": 35
+  },
+  {
+    "number": 47,
+    "name_arabic": "محمد",
+    "name_english": "Muhammad",
+    "name_translated": "Мухаммад",
+    "revelation_type": "medinan",
+    "ayah_count": 38
+  },
+  {
+    "number": 48,
+    "name_arabic": "الفتح",
+    "name_english": "Al-Fath",
+    "name_translated": "Победа",
+    "revelation_type": "medinan",
+    "ayah_count": 29
+  },
+  {
+    "number": 49,
+    "name_arabic": "الحجرات",
+    "name_english": "Al-Hujurat",
+    "name_translated": "Комнаты",
+    "revelation_type": "medinan",
+    "ayah_count": 18
+  },
+  {
+    "number": 50,
+    "name_arabic": "ق",
+    "name_english": "Qaf",
+    "name_translated": "Каф",
+    "revelation_type": "meccan",
+    "ayah_count": 45
+  },
+  {
+    "number": 51,
+    "name_arabic": "الذاريات",
+    "name_english": "Adh-Dhariyat",
+    "name_translated": "Рассеивающие",
+    "revelation_type": "meccan",
+    "ayah_count": 60
+  },
+  {
+    "number": 52,
+    "name_arabic": "الطور",
+    "name_english": "At-Tur",
+    "name_translated": "Гора",
+    "revelation_type": "meccan",
+    "ayah_count": 49
+  },
+  {
+    "number": 53,
+    "name_arabic": "النجم",
+    "name_english": "An-Najm",
+    "name_translated": "Звезда",
+    "revelation_type": "meccan",
+    "ayah_count": 62
+  },
+  {
+    "number": 54,
+    "name_arabic": "القمر",
+    "name_english": "Al-Qamar",
+    "name_translated": "Месяц",
+    "revelation_type": "meccan",
+    "ayah_count": 55
+  },
+  {
+    "number": 55,
+    "name_arabic": "الرحمن",
+    "name_english": "Ar-Rahman",
+    "name_translated": "Милостивый",
+    "revelation_type": "medinan",
+    "ayah_count": 78
+  },
+  {
+    "number": 56,
+    "name_arabic": "الواقعة",
+    "name_english": "Al-Waqi'ah",
+    "name_translated": "Падающее",
+    "revelation_type": "meccan",
+    "ayah_count": 96
+  },
+  {
+    "number": 57,
+    "name_arabic": "الحديد",
+    "name_english": "Al-Hadid",
+    "name_translated": "Железо",
+    "revelation_type": "medinan",
+    "ayah_count": 29
+  },
+  {
+    "number": 58,
+    "name_arabic": "المجادلة",
+    "name_english": "Al-Mujadilah",
+    "name_translated": "Препирающаяся",
+    "revelation_type": "medinan",
+    "ayah_count": 22
+  },
+  {
+    "number": 59,
+    "name_arabic": "الحشر",
+    "name_english": "Al-Hashr",
+    "name_translated": "Собрание",
+    "revelation_type": "medinan",
+    "ayah_count": 24
+  },
+  {
+    "number": 60,
+    "name_arabic": "الممتحنة",
+    "name_english": "Al-Mumtahanah",
+    "name_translated": "Испытуемая",
+    "revelation_type": "medinan",
+    "ayah_count": 13
+  },
+  {
+    "number": 61,
+    "name_arabic": "الصف",
+    "name_english": "As-Saff",
+    "name_translated": "Ряды",
+    "revelation_type": "medinan",
+    "ayah_count": 14
+  },
+  {
+    "number": 62,
+    "name_arabic": "الجمعة",
+    "name_english": "Al-Jumu'ah",
+    "name_translated": "Пятница",
+    "revelation_type": "medinan",
+    "ayah_count": 11
+  },
+  {
+    "number": 63,
+    "name_arabic": "المنافقون",
+    "name_english": "Al-Munafiqun",
+    "name_translated": "Лицемеры",
+    "revelation_type": "medinan",
+    "ayah_count": 11
+  },
+  {
+    "number": 64,
+    "name_arabic": "التغابن",
+    "name_english": "At-Taghabun",
+    "name_translated": "Взаимное обманывание",
+    "revelation_type": "medinan",
+    "ayah_count": 18
+  },
+  {
+    "number": 65,
+    "name_arabic": "الطلاق",
+    "name_english": "At-Talaq",
+    "name_translated": "Развод",
+    "revelation_type": "medinan",
+    "ayah_count": 12
+  },
+  {
+    "number": 66,
+    "name_arabic": "التحريم",
+    "name_english": "At-Tahrim",
+    "name_translated": "Запрещение",
+    "revelation_type": "medinan",
+    "ayah_count": 12
+  },
+  {
+    "number": 67,
+    "name_arabic": "الملك",
+    "name_english": "Al-Mulk",
+    "name_translated": "Власть",
+    "revelation_type": "meccan",
+    "ayah_count": 30
+  },
+  {
+    "number": 68,
+    "name_arabic": "القلم",
+    "name_english": "Al-Qalam",
+    "name_translated": "Письменная трость",
+    "revelation_type": "meccan",
+    "ayah_count": 52
+  },
+  {
+    "number": 69,
+    "name_arabic": "الحاقة",
+    "name_english": "Al-Haqqah",
+    "name_translated": "Неминуемое",
+    "revelation_type": "meccan",
+    "ayah_count": 52
+  },
+  {
+    "number": 70,
+    "name_arabic": "المعارج",
+    "name_english": "Al-Ma'arij",
+    "name_translated": "Ступени",
+    "revelation_type": "meccan",
+    "ayah_count": 44
+  },
+  {
+    "number": 71,
+    "name_arabic": "نوح",
+    "name_english": "Nuh",
+    "name_translated": "Нух",
+    "revelation_type": "meccan",
+    "ayah_count": 28
+  },
+  {
+    "number": 72,
+    "name_arabic": "الجن",
+    "name_english": "Al-Jinn",
+    "name_translated": "Джинны",
+    "revelation_type": "meccan",
+    "ayah_count": 28
+  },
+  {
+    "number": 73,
+    "name_arabic": "المزمل",
+    "name_english": "Al-Muzzammil",
+    "name_translated": "Закутавшийся",
+    "revelation_type": "meccan",
+    "ayah_count": 20
+  },
+  {
+    "number": 74,
+    "name_arabic": "المدثر",
+    "name_english": "Al-Muddaththir",
+    "name_translated": "Завернувшийся",
+    "revelation_type": "meccan",
+    "ayah_count": 56
+  },
+  {
+    "number": 75,
+    "name_arabic": "القيامة",
+    "name_english": "Al-Qiyamah",
+    "name_translated": "Воскресение",
+    "revelation_type": "meccan",
+    "ayah_count": 40
+  },
+  {
+    "number": 76,
+    "name_arabic": "الإنسان",
+    "name_english": "Al-Insan",
+    "name_translated": "Человек",
+    "revelation_type": "medinan",
+    "ayah_count": 31
+  },
+  {
+    "number": 77,
+    "name_arabic": "المرسلات",
+    "name_english": "Al-Mursalat",
+    "name_translated": "Посылаемые",
+    "revelation_type": "meccan",
+    "ayah_count": 50
+  },
+  {
+    "number": 78,
+    "name_arabic": "النبأ",
+    "name_english": "An-Naba",
+    "name_translated": "Весть",
+    "revelation_type": "meccan",
+    "ayah_count": 40
+  },
+  {
+    "number": 79,
+    "name_arabic": "النازعات",
+    "name_english": "An-Nazi'at",
+    "name_translated": "Исторгающие",
+    "revelation_type": "meccan",
+    "ayah_count": 46
+  },
+  {
+    "number": 80,
+    "name_arabic": "عبس",
+    "name_english": "Abasa",
+    "name_translated": "Нахмурился",
+    "revelation_type": "meccan",
+    "ayah_count": 42
+  },
+  {
+    "number": 81,
+    "name_arabic": "التكوير",
+    "name_english": "At-Takwir",
+    "name_translated": "Скручивание",
+    "revelation_type": "meccan",
+    "ayah_count": 29
+  },
+  {
+    "number": 82,
+    "name_arabic": "الإنفطار",
+    "name_english": "Al-Infitar",
+    "name_translated": "Раскалывание",
+    "revelation_type": "meccan",
+    "ayah_count": 19
+  },
+  {
+    "number": 83,
+    "name_arabic": "المطففين",
+    "name_english": "Al-Mutaffifin",
+    "name_translated": "Обвешивающие",
+    "revelation_type": "meccan",
+    "ayah_count": 36
+  },
+  {
+    "number": 84,
+    "name_arabic": "الإنشقاق",
+    "name_english": "Al-Inshiqaq",
+    "name_translated": "Разверзнется",
+    "revelation_type": "meccan",
+    "ayah_count": 25
+  },
+  {
+    "number": 85,
+    "name_arabic": "البروج",
+    "name_english": "Al-Buruj",
+    "name_translated": "Башни",
+    "revelation_type": "meccan",
+    "ayah_count": 22
+  },
+  {
+    "number": 86,
+    "name_arabic": "الطارق",
+    "name_english": "At-Tariq",
+    "name_translated": "Ночной путник",
+    "revelation_type": "meccan",
+    "ayah_count": 17
+  },
+  {
+    "number": 87,
+    "name_arabic": "الأعلى",
+    "name_english": "Al-A'la",
+    "name_translated": "Высочайший",
+    "revelation_type": "meccan",
+    "ayah_count": 19
+  },
+  {
+    "number": 88,
+    "name_arabic": "الغاشية",
+    "name_english": "Al-Ghashiyah",
+    "name_translated": "Покрывающее",
+    "revelation_type": "meccan",
+    "ayah_count": 26
+  },
+  {
+    "number": 89,
+    "name_arabic": "الفجر",
+    "name_english": "Al-Fajr",
+    "name_translated": "Заря",
+    "revelation_type": "meccan",
+    "ayah_count": 30
+  },
+  {
+    "number": 90,
+    "name_arabic": "البلد",
+    "name_english": "Al-Balad",
+    "name_translated": "Город",
+    "revelation_type": "meccan",
+    "ayah_count": 20
+  },
+  {
+    "number": 91,
+    "name_arabic": "الشمس",
+    "name_english": "Ash-Shams",
+    "name_translated": "Солнце",
+    "revelation_type": "meccan",
+    "ayah_count": 15
+  },
+  {
+    "number": 92,
+    "name_arabic": "الليل",
+    "name_english": "Al-Layl",
+    "name_translated": "Ночь",
+    "revelation_type": "meccan",
+    "ayah_count": 21
+  },
+  {
+    "number": 93,
+    "name_arabic": "الضحى",
+    "name_english": "Ad-Duha",
+    "name_translated": "Утро",
+    "revelation_type": "meccan",
+    "ayah_count": 11
+  },
+  {
+    "number": 94,
+    "name_arabic": "الشرح",
+    "name_english": "Ash-Sharh",
+    "name_translated": "Раскрытие",
+    "revelation_type": "meccan",
+    "ayah_count": 8
+  },
+  {
+    "number": 95,
+    "name_arabic": "التين",
+    "name_english": "At-Tin",
+    "name_translated": "Смоковница",
+    "revelation_type": "meccan",
+    "ayah_count": 8
+  },
+  {
+    "number": 96,
+    "name_arabic": "العلق",
+    "name_english": "Al-Alaq",
+    "name_translated": "Сгусток",
+    "revelation_type": "meccan",
+    "ayah_count": 19
+  },
+  {
+    "number": 97,
+    "name_arabic": "القدر",
+    "name_english": "Al-Qadr",
+    "name_translated": "Могущество",
+    "revelation_type": "meccan",
+    "ayah_count": 5
+  },
+  {
+    "number": 98,
+    "name_arabic": "البينة",
+    "name_english": "Al-Bayyinah",
+    "name_translated": "Ясное знамение",
+    "revelation_type": "medinan",
+    "ayah_count": 8
+  },
+  {
+    "number": 99,
+    "name_arabic": "الزلزلة",
+    "name_english": "Az-Zalzalah",
+    "name_translated": "Землетрясение",
+    "revelation_type": "medinan",
+    "ayah_count": 8
+  },
+  {
+    "number": 100,
+    "name_arabic": "العاديات",
+    "name_english": "Al-Adiyat",
+    "name_translated": "Скачущие",
+    "revelation_type": "meccan",
+    "ayah_count": 11
+  },
+  {
+    "number": 101,
+    "name_arabic": "القارعة",
+    "name_english": "Al-Qari'ah",
+    "name_translated": "Великое бедствие",
+    "revelation_type": "meccan",
+    "ayah_count": 11
+  },
+  {
+    "number": 102,
+    "name_arabic": "التكاثر",
+    "name_english": "At-Takathur",
+    "name_translated": "Страсть к умножению",
+    "revelation_type": "meccan",
+    "ayah_count": 8
+  },
+  {
+    "number": 103,
+    "name_arabic": "العصر",
+    "name_english": "Al-Asr",
+    "name_translated": "Предвечернее время",
+    "revelation_type": "meccan",
+    "ayah_count": 3
+  },
+  {
+    "number": 104,
+    "name_arabic": "الهمزة",
+    "name_english": "Al-Humazah",
+    "name_translated": "Хулитель",
+    "revelation_type": "meccan",
+    "ayah_count": 9
+  },
+  {
+    "number": 105,
+    "name_arabic": "الفيل",
+    "name_english": "Al-Fil",
+    "name_translated": "Слон",
+    "revelation_type": "meccan",
+    "ayah_count": 5
+  },
+  {
+    "number": 106,
+    "name_arabic": "قريش",
+    "name_english": "Quraysh",
+    "name_translated": "Курайш",
+    "revelation_type": "meccan",
+    "ayah_count": 4
+  },
+  {
+    "number": 107,
+    "name_arabic": "الماعون",
+    "name_english": "Al-Ma'un",
+    "name_translated": "Подаяние",
+    "revelation_type": "meccan",
+    "ayah_count": 7
+  },
+  {
+    "number": 108,
+    "name_arabic": "الكوثر",
+    "name_english": "Al-Kawthar",
+    "name_translated": "Обильный",
+    "revelation_type": "meccan",
+    "ayah_count": 3
+  },
+  {
+    "number": 109,
+    "name_arabic": "الكافرون",
+    "name_english": "Al-Kafirun",
+    "name_translated": "Неверные",
+    "revelation_type": "meccan",
+    "ayah_count": 6
+  },
+  {
+    "number": 110,
+    "name_arabic": "النصر",
+    "name_english": "An-Nasr",
+    "name_translated": "Помощь",
+    "revelation_type": "medinan",
+    "ayah_count": 3
+  },
+  {
+    "number": 111,
+    "name_arabic": "المسد",
+    "name_english": "Al-Masad",
+    "name_translated": "Пальмовые волокна",
+    "revelation_type": "meccan",
+    "ayah_count": 5
+  },
+  {
+    "number": 112,
+    "name_arabic": "الإخلاص",
+    "name_english": "Al-Ikhlas",
+    "name_translated": "Искренность",
+    "revelation_type": "meccan",
+    "ayah_count": 4
+  },
+  {
+    "number": 113,
+    "name_arabic": "الفلق",
+    "name_english": "Al-Falaq",
+    "name_translated": "Рассвет",
+    "revelation_type": "meccan",
+    "ayah_count": 5
+  },
+  {
+    "number": 114,
+    "name_arabic": "الناس",
+    "name_english": "An-Nas",
+    "name_translated": "Люди",
+    "revelation_type": "meccan",
+    "ayah_count": 6
+  }
+]
